@@ -1,0 +1,17 @@
+﻿  haar_wavelet_transform.cpp
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(124,23): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(125,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(208,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(209,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(225,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(226,19): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(227,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(259,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(318,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(319,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(336,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(337,19): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(338,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(390,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Haar_wavelet_transform\haar_wavelet_transform.cpp(391,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Haar_wavelet_transform.vcxproj -> C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Haar_wavelet_transform\Debug\Haar_wavelet_transform.exe
