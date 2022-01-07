@@ -38,14 +38,14 @@ Then you can get below output:
 
 + Harr-wavelet-transform coefficient images
 
- ![image](https://user-images.githubusercontent.com/26856370/148579280-b81a8658-4c3d-4cbb-b100-3d20c079619c.png)
+  ![image](https://user-images.githubusercontent.com/26856370/148579280-b81a8658-4c3d-4cbb-b100-3d20c079619c.png)
 
 + reconstructed image 
 
-![image](https://user-images.githubusercontent.com/26856370/148579362-727dc098-12b2-41b3-9f15-6dc1ded0c3ca.png)
+  ![image](https://user-images.githubusercontent.com/26856370/148579362-727dc098-12b2-41b3-9f15-6dc1ded0c3ca.png)
 
 + MSE of two reconstructed images
 
-![image](https://user-images.githubusercontent.com/26856370/148579064-1ef89fc6-f712-43ac-80d1-81dc8bb7d767.png)
+  ![image](https://user-images.githubusercontent.com/26856370/148579064-1ef89fc6-f712-43ac-80d1-81dc8bb7d767.png)
 
  
